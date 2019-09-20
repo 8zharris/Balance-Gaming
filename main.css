@@ -1,0 +1,121 @@
+
+#home{
+    
+    
+}
+ul {
+  list-style-type: none;
+  margin-right: 14.5%; 
+  margin-left: 14.5%;
+  padding: 0;
+  overflow: hidden;
+  background-color: #444;
+  
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 18px;
+  text-decoration: none;
+ font-family: 'Muli', sans-serif; 
+}
+
+
+li a:hover {
+  background-color: #111;
+}
+
+h1{
+    
+   
+    font-family: 'Muli', sans-serif;
+    margin-left:14%;    
+}
+
+p{
+   font-family: 'Muli', sans-serif; 
+    margin-right: 14.5%; 
+    margin-left: 16%;
+    font-size: 110%;
+    color: ;
+    
+}
+h2{
+    
+   
+    margin-left: 14.5%;
+    font-family: 'Muli', sans-serif; 
+    color: #00a2ff;
+   
+}
+body{
+    
+}
+    
+img{
+    
+    
+}
+h3{
+    margin-left: 14.5%;
+    font-family: 'Muli', sans-serif;  
+    margin-right: 14.5%; 
+}
+#ruby{
+    margin-left:40.5%;
+    
+    
+}
+#text{
+    margin-left: 30%;
+    margin-right: 25%;
+    font-size: 130%;
+   
+}
+ 
+#titler{
+    color:#ff726b;
+      
+}
+#football{
+      margin-left: 40.5%;
+}
+
+#titles{
+    color:#00a000
+}
+#titlec{
+     color: #00a2ff;
+    font-size: 170%;
+}
+#contacttitle{
+    color: #00a2ff;
+}
+#titlef{
+    color:purple;
+}
+#titlem{
+    color: limegreen;
+}
+#text1{
+    font-size: 120%;
+}
+hr{
+    margin-right: 14.5%; 
+  margin-left: 14.5%;
+}
+
+
+ 
+
+
+
+
+
